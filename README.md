@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Shilpi Kumari</h1>
 <h3 align="center">A passionate frontend developer from India who focuses on writing clean, elegant and efficient code.</h3><br/>
-<img align="right" margin-top="10px" alt="Coding" width="380" src="https://nadiaakter.com/wp-content/uploads/2022/09/601014116770475.6068beff4640a.gif">
+<img align="right" margin-top="10px" alt="Coding" width="380" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayansingh155&label=Profile%20views&color=0e75b6&style=flat" alt="nayansingh155" /> </p>
 
