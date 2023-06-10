@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, mern, javascript, html, css**
+- 💬 Ask me about **React, mern, Node Js, MongoDb, Mongoose, Express, javascript, html, css**
 
 - 📫 How to reach me **shilpi.bbs@gmail.com**<br/>
 
-- 📄 Know about my experiences [Shilpi_resume](https://drive.google.com/file/d/1PY8ziLyYp8qfsl7rkeWmp7Y0JWMICGFh/view?usp=share_link)
+- 📄 Know about my experiences [Shilpi_Yadav_Resume.pdf](https://drive.google.com/file/d/1AR7Qkv5wgpschSb1Qk7fPaM5Ah-zWHIM/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am a foodie.**<br/><br/><br/>
 
