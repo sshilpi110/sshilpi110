@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shilpi.bbs@gmail.com**<br/>
 
-- 📄 Know about my experiences [Shilpi_Yadav_Resume.pdf](https://drive.google.com/file/d/1QvAGodpkBjhVXdIQubiA31m9BUFPPJE9/view?usp=sharing)
+- 📄 Know about my experiences [Shilpi_Yadav_Resume.pdf](https://drive.google.com/file/d/1u222lpyhS0EBUPLKvJM3CcvRUGXJs7Qs/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am a foodie.**<br/><br/><br/>
 
