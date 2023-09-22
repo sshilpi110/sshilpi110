@@ -7,16 +7,16 @@
 <h3 align="center">A passionate frontend developer from India who focuses on writing clean, elegant and efficient code.</h3><br/>
 <img align="right" margin-top="10px" alt="Coding" width="380" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayansingh155&label=Profile%20views&color=0e75b6&style=flat" alt="nayansingh155" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sshilpi110&label=Profile%20views&color=0e75b6&style=flat" alt="sshilpi110" /> </p>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Angular & React Native**
 
 - 💬 Ask me about **React, mern, Node Js, MongoDb, Mongoose, Express, javascript, html, css**
 
 - 📫 How to reach me **shilpi.bbs@gmail.com**<br/>
 
-- 📄 Know about my experiences [Shilpi_Yadav_Resume.pdf](https://drive.google.com/file/d/1lGdqYx61qZzmNokWDhG5s1MLMBm4_8yF/view?usp=sharing)
+- 📄 Know about my experiences [Shilpi_Yadav_Resume.pdf](https://drive.google.com/file/d/1QvAGodpkBjhVXdIQubiA31m9BUFPPJE9/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am a foodie.**<br/><br/><br/>
 
